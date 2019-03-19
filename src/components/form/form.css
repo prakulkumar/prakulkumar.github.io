@@ -1,0 +1,19 @@
+.sectionTop {
+    width: 100%;
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.countryInput {
+    flex-grow: 5;
+    margin-right: 50px;
+}
+
+.cityInput {
+    flex-grow: 5;
+}
+
+.clickButton {
+    margin-top: 30px;
+    margin-left: 50px;
+}
